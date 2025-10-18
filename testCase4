@@ -1,0 +1,9 @@
+
+program test4;
+function square(n: integer): integer;
+begin
+ square := n * n;
+end;
+begin
+ result := square(4);
+end.

@@ -1,0 +1,6 @@
+
+program test2;
+var x, y: integer;
+function add(a, b: integer): integer; forward;
+begin
+end.

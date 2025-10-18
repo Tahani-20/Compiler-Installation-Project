@@ -1,0 +1,9 @@
+
+program test3;
+procedure printSum(a, b: integer);
+begin
+ result := a + b;
+end;
+begin
+ printSum(5, 6);
+end.
